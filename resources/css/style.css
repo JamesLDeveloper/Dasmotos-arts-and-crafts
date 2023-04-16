@@ -1,0 +1,35 @@
+h1 {
+
+font-family: 'Helvetica';
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+
+}
+
+h2 {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+
+}
+
+.Subheading1 {
+
+background-color: mediumspringgreen;
+
+}
+
+.Subheading2 {
+background-color: lightcoral;
+
+
+}
+
+.Subheading3 {
+background-color: skyblue;
+
+
+}
