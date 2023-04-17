@@ -16,6 +16,22 @@ color: white;
 
 }
 
+h3 {
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+p {
+    font-family: Helvetica;
+}
+
+.Highlight-Price{
+    font-family: Helvetica;
+    color: blue;
+}
+
 .Subheading1 {
 
 background-color: mediumspringgreen;
